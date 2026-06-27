@@ -1,4 +1,4 @@
-## Next Steps
+# P2P Network Communication
 
 Need to learn how to configure ethernet P2P with computer usiing Ethernet Point-to-Point Connection Between BeagleBone Black and Windows PC
 

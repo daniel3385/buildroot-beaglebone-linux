@@ -37,7 +37,7 @@ Example install path:
 
 ---
 
-## ⚙️ 3. Activate the toolchain environment (manual export)
+## 3. Activate the toolchain environment (manual export)
 
 In theory the SDK provides an `environment-setup-*` script to configure environment, but it was not my case, so I had to manually configure the environment using exported variables.
 
