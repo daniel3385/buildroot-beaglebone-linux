@@ -82,20 +82,4 @@ Expected output:
 ```
 ELF 32-bit LSB executable, ARM, EABI5 ...
 ```
-
----
-
-## 7. Copy to the BeagleBone Black
-
-TBD. I need to solve ch 2 before this
-
-## 8. Run on the BBB
-
-On the board:
-
-```bash
-chmod +x hello
-./hello
-```
-
 ---
